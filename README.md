@@ -3,42 +3,69 @@
 ### IT Service Coordinator & Customer Success | Integración ITSM (Jira/MySQL) | 
 ## Puente Operativo Negocio-Tecnología | ES/FR/EN/CAT | 
 Proyectos de recualificación técnica | Barcelona 🇪🇸
----
-
-### 💻 Tecnologías y Herramientas
-
-| Backend | Base de Datos | Herramientas |
-| :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=swagger&logoColor=white) | | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
 
 ---
 
-### 📂 Proyectos Destacados
+## 🎯 Mi Enfoque Profesional
 
-#### 🔗 Clorian DB Connector
-Un módulo Java para la integración segura y automatizada con bases de datos MySQL.
-- **Características:** Ejecución dinámica de scripts SQL, manejo de ResultSets, integración JSON.
-- **Tecnologías:** Java, MySQL, org.json.
-- 🔗 [Ver Repositorio](https://github.com/jaime-urrutia-it/clorian-db-connector)
+Soy un coordinador de servicios IT que actúa como **puente entre negocio y tecnología**. 
+Mis proyectos en este perfil no buscan demostrar que soy un desarrollador puro, sino que:
 
-#### 🪝 Jira Webhook Receiver
-Servicio asíncrono para la recepción y procesamiento de eventos de Jira.
-- **Características:** Gestión de webhooks entrantes, validación de seguridad, disparo de acciones automáticas.
-- **Tecnologías:** Java, Servlets, Jira API.
-- 🔗 [Ver Repositorio](https://github.com/jaime-urrutia-it/jira-webhook-receiver) 
+• Entiendo arquitecturas de integración para coordinar con equipos técnicos
+• Aplico ITIL v4 a flujos reales de incidencia
+• Valoro el aprendizaje estructurado sobre la ejecución técnica
+
+🔗 [Ver mi CV y perfil de LinkedIn](https://www.linkedin.com/in/yago-urrutia-multilingue)
 
 ---
 
-### 📫 Contacto
+## 📦 Proyectos Destacados
 
-- 📧 Email: `Yurrutiavila@gmail.com` 
-- 💼 LinkedIn: https://www.linkedin.com/in/jaime-yago-urrutia-multilingue/
+### 🔄 Clorian DB Connector
+[![Java](https://img.shields.io/badge/Java-17-blue)]() [![ITSM](https://img.shields.io/badge/ITSM-ITILv4-green)]()
+> Sandbox ITSM: sincronización bidireccional MySQL ↔ Jira Cloud para gestión de incidencias.
+> • Stack: Java 17, JDBC, REST API, Webhooks
+> • Metodología: Desarrollo con IA asistida + revisión manual exhaustiva
+> • Objetivo: Validar flujos ITIL v4 en entorno controlado
+> 🔗 [Ver repositorio](https://github.com/jaime-urrutia-it/clorian-db-connector)
 
-> *"La automatización no se trata de reemplazar personas, sino de liberar su potencial para tareas de mayor valor."*
+### ☁️ Jira Webhook Receiver
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.3-green)]()
+> Microservicio receptor de webhooks para sincronización Jira → MySQL en tiempo real.
+> • Complemento bidireccional de Clorian DB Connector
+> • Stack: Spring Boot 3.3.3, Maven, MySQL
+> 🔗 [Ver repositorio](https://github.com/jaime-urrutia-it/jira-webhook-receiver)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaime-urrutia-it&label=Profile%20views&color=0e75b6&style=flat" alt="jaime-urrutia-it" />
-</p>
+
+## 🛠 Competencias Técnicas
+
+| Área | Herramientas / Conocimientos |
+|------|-----------------------------|
+| **ITSM / ITIL** | Gestión de incidencias, SLAs, flujos Jira, mejora continua |
+| **Ticketing** | Jira Administration, Confluence, flujos de trabajo |
+| **Backend (comprensión)** | Java (OOP, JDBC), SQL, APIs REST, Webhooks |
+| **Productividad** | MS365 (Teams/SharePoint), Google Workspace, Excel avanzado |
+| **Idiomas** | 🇪🇸 Español (nativo) • 🇫🇷 Francés (C1) • 🇬🇧 Inglés (C1) • 🇨🇦 Catalán (nativo) |
+
+---
+
+## 🚀 Busco Oportunidades En...
+
+✅ IT Service Coordinator • Customer Success Technical • Technical Account Manager (junior)  
+✅ Entornos B2B: SaaS, banca, consultoría IT, outsourcing de servicios  
+✅ Roles híbridos: 70% gestión/coordinación + ~30% contacto técnico ligero para aprendizaje  
+✅ Barcelona (presencial/híbrido) • Disponibilidad inmediata
+
+❌ Evito: Soporte telefónico 100% • Troubleshooting de red/VoIP como responsabilidad principal • Roles B2C masivos
+
+---
+
+## 📬 Contacto
+
+• 📧 yurrutiavila@gmail.com  
+• 🔗 [LinkedIn](https://www.linkedin.com/in/yago-urrutia-multilingue)  
+• 📍 Barcelona, España  
+• 🚗 Vehículo propio para movilidad
+
+> *"Mi valor no está en diagnosticar un fallo de conectividad, sino en asegurar que esa incidencia se gestione con trazabilidad, comunicación clara y aprendizaje para evitar recurrencias."*
