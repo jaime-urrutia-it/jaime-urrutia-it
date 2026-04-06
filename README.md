@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jaime Urrutia
 
 ### IT Service Coordinator & Customer Success | Integración ITSM (Jira/MySQL) | 
-Puente Operativo Negocio-Tecnología | ES/FR/EN/CAT | 
+## Puente Operativo Negocio-Tecnología | ES/FR/EN/CAT | 
 Proyectos de recualificación técnica | Barcelona 🇪🇸
 ---
 
