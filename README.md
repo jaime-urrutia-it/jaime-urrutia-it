@@ -1,9 +1,8 @@
 # 👋 Hola, soy Jaime Urrutia
 
-### 🚀 Desarrollador Java | Integración de Sistemas | Automatización
-
-Bienvenido a mi espacio de desarrollo. Me especializo en crear conectores robustos, APIs REST y sistemas de automatización de procesos empresariales.
-
+### IT Service Coordinator & Customer Success | Integración ITSM (Jira/MySQL) | 
+Puente Operativo Negocio-Tecnología | ES/FR/EN/CAT | 
+Proyectos de recualificación técnica | Barcelona 🇪🇸
 ---
 
 ### 💻 Tecnologías y Herramientas
