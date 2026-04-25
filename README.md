@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jaime Urrutia
+# 👋 Hola, soy Jaime (Yago) Urrutia
 
 ### IT Service Coordinator & Customer Success | Integración ITSM (Jira/MySQL) | 
 ## Puente Operativo Negocio-Tecnología | ES/FR/EN/CAT | 
