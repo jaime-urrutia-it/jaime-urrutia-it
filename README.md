@@ -1,71 +1,75 @@
-# 👋 Hola, soy Jaime (Yago) Urrutia
+# Hola, soy Jaime (Yago) Urrutia
 
-### IT Service Coordinator & Customer Success | Integración ITSM (Jira/MySQL) | 
-## Puente Operativo Negocio-Tecnología | ES/FR/EN/CAT | 
-Proyectos de recualificación técnica | Barcelona 🇪🇸
+**Coordinación Operativa Multilingüe (ES·CAT·FR·EN) | Transición ITSM → SSC / Business Operations**
+Puente operativo entre negocio, cliente y sistemas · Barcelona
 
----
+## 🧭 Mi Enfoque Profesional
 
-## 🎯 Mi Enfoque Profesional
+Profesional operativo con +10 años en coordinación, gestión de casos y comunicación
+multilingüe, hoy en banca digital (INTELCIA / Banc Sabadell). Mi trayectoria evolucionó
+de la operativa (industrial, inmobiliario, BPO) a la gestión de servicios IT (ITSM),
+y ahora hacia el control de procesos de negocio.
 
-Soy un coordinador de servicios IT que actúa como **puente entre negocio y tecnología**. 
-Mis proyectos en este perfil no buscan demostrar que soy un desarrollador puro, sino que:
+Este perfil documenta esa evolución en dos actos:
 
-• Entiendo arquitecturas de integración para coordinar con equipos técnicos
-• Aplico ITIL v4 a flujos reales de incidencia
-• Valoro el aprendizaje estructurado sobre la ejecución técnica
+- **Clorian 1.0 (ITSM):** integración Jira ↔ MySQL para trazabilidad de incidencias.
+- **Clorian 2.0 (Business Operations):** sobre los mismos datos, un control de
+  conciliación Order-to-Cash (three-way match Booking–Payment–Ticket) con
+  severidad, SLA de 48h y resumen ejecutivo.
 
-🔗 [Ver mi CV y perfil de LinkedIn](https://www.linkedin.com/in/yago-urrutia-multilingue)
+No pretendo demostrar que soy desarrollador puro ni analista senior: demuestro que
+entiendo arquitecturas para coordinar con equipos técnicos, que aplico ITIL v4 y SLAs
+a flujos reales, y que sé usar los datos para controlar un proceso. Aprendo rápido del
+Senior que diseña la estrategia; aporto rigor operativo y ejecución desde el día 1.
 
----
+[Ver mi CV y perfil de LinkedIn](<https://www.linkedin.com/in/jaime-yago-urrutia-multilingue/>)
 
-## 📦 Proyectos Destacados
+## 🚀 Evolución del Proyecto Clorian
 
-### 🔄 Clorian DB Connector
-[![Java](https://img.shields.io/badge/Java-17-blue)]() [![ITSM](https://img.shields.io/badge/ITSM-ITILv4-green)]()
-> Sandbox ITSM: sincronización bidireccional MySQL ↔ Jira Cloud para gestión de incidencias.
-> • Stack: Java 17, JDBC, REST API, Webhooks
-> • Metodología: Desarrollo con IA asistida + revisión manual exhaustiva
-> • Objetivo: Validar flujos ITIL v4 en entorno controlado
-> 🔗 [Ver repositorio](https://github.com/jaime-urrutia-it/clorian-db-connector)
+| Fase | Qué demuestra | Estado |
+|---|---|---|
+| **1.0 — ITSM** | Sincronización bidireccional MySQL ↔ Jira (emisor Java + receptor Spring Boot), prevención de ciclos, ITIL v4 | ✅ Publicado |
+| **2.0 — Business Ops** | Control de conciliación O2C sobre la capa de negocio: regla de negocio, severidad, SLA 48h, resumen para stakeholder (`reconciliacion_clorian.sql`) | ✅ SQL · 🎬 Vídeo en producción |
 
-### ☁️ Jira Webhook Receiver
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.3-green)]()
-> Microservicio receptor de webhooks para sincronización Jira → MySQL en tiempo real.
-> • Complemento bidireccional de Clorian DB Connector
-> • Stack: Spring Boot 3.3.3, Maven, MySQL
-> 🔗 [Ver repositorio](https://github.com/jaime-urrutia-it/jira-webhook-receiver)
+## 📌 Proyectos Destacados
 
----
+### Clorian DB Connector — Emisor (MySQL → Jira)
+`Java 17` `JDBC` `ITIL v4` — Detección de tickets, creación de issues y polling de estados.
+[Ver repositorio](<https://github.com/jaime-urrutia-it/clorian-db-connector>)
 
-## 🛠 Competencias Técnicas
+### Jira Webhook Receiver — Receptor (Jira → MySQL)
+`Spring Boot 3.3.3` — Webhooks en tiempo real que eliminan la latencia operativa.
+[Ver repositorio](<https://github.com/jaime-urrutia-it/jira-webhook-receiver>)
 
-| Área | Herramientas / Conocimientos |
-|------|-----------------------------|
-| **ITSM / ITIL** | Gestión de incidencias, SLAs, flujos Jira, mejora continua |
-| **Ticketing** | Jira Administration, Confluence, flujos de trabajo |
-| **Backend (comprensión)** | Java (OOP, JDBC), SQL, APIs REST, Webhooks |
-| **Productividad** | MS365 (Teams/SharePoint), Google Workspace, Excel avanzado |
-| **Idiomas** | 🇪🇸 Español (nativo) • 🇫🇷 Francés (C1) • 🇬🇧 Inglés (C1) • 🇨🇦 Catalán (nativo) |
+### Clorian 2.0 — Control de Conciliación O2C
+`SQL` `Three-way match` `SLA` — Toda reserva confirmada debe cuadrar al céntimo
+(cobrado y entregado) o es una excepción con SLA de 48h.
+[Ver ecosistema Clorian](<https://github.com/jaime-urrutia-it/clorian-ecosystem>)
 
----
+## 🛠️ Competencias
 
-## 🚀 Busco Oportunidades En...
+| Área | |
+|---|---|
+| **Operaciones / SSC** | Gestión de casos y SLAs, trazabilidad, conciliación O2C, clasificación por severidad, reporte a stakeholder |
+| **Compliance** | RGPD/PSD2 (banca digital), ISO 9001 (inmobiliario), prevención de fraude |
+| **ITSM / ITIL** | Gestión de incidencias, flujos Jira, mejora continua |
+| **Backend (comprensión)** | Java (OOP, JDBC), SQL, APIs REST, Webhooks — para coordinar con devs, no para desarrollar |
+| **Productividad** | MS365, Google Workspace, Excel avanzado |
+| **Idiomas** | Español (nativo) · Catalán (nativo) · Francés (C1) · Inglés (C1) |
 
-✅ IT Service Coordinator • Customer Success Technical • Technical Account Manager (junior)  
-✅ Entornos B2B: SaaS, banca, consultoría IT, outsourcing de servicios  
-✅ Roles híbridos: 70% gestión/coordinación + ~30% contacto técnico ligero para aprendizaje  
-✅ Barcelona (presencial/híbrido) • Disponibilidad inmediata
+## 🔎 Busco Oportunidades En...
 
-❌ Evito: Soporte telefónico 100% • Troubleshooting de red/VoIP como responsabilidad principal • Roles B2C masivos
+- **Roles:** Business Operations Analyst (operativo/junior) · SSC Operations Coordinator · Customer Service Multilingüe (SSC) · IT Service Coordinator
+- **Entornos B2B:** SSC, banca, SaaS, consultoría, outsourcing de servicios
+- **Formato:** ejecución/coordinación dentro de un equipo establecido, con un Senior del que aprender la estrategia
+- **Situación:** en activo en INTELCIA / Banc Sabadell · Barcelona (presencial/híbrido) · horizonte de cambio 3-6 meses
 
----
+**Evito:** roles que exijan diseñar estrategia operativa como responsabilidad principal · soporte telefónico 100% · troubleshooting de red/VoIP como responsabilidad principal · roles B2C masivos
 
 ## 📬 Contacto
 
-• 📧 yurrutiavila@gmail.com  
-• 🔗 [LinkedIn](https://www.linkedin.com/in/yago-urrutia-multilingue)  
-• 📍 Barcelona, España  
-• 🚗 Vehículo propio para movilidad
+ yurrutiavila@gmail.com · [LinkedIn](<https://www.linkedin.com/in/jaime-urrutia-multilingue/?locale=es-ES>) · 📍 Barcelona
 
-> *"Mi valor no está en diagnosticar un fallo de conectividad, sino en asegurar que esa incidencia se gestione con trazabilidad, comunicación clara y aprendizaje para evitar recurrencias."*
+> "Mi valor no está solo en resolver una incidencia: está en asegurar que cada excepción
+> —técnica o de negocio— se gestione con trazabilidad, prioridad clara y aprendizaje
+> para evitar recurrencias."
