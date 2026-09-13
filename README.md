@@ -62,7 +62,7 @@ Senior que diseña la estrategia; aporto rigor operativo y ejecución desde el d
 - **Roles:** Business Operations Analyst (operativo/junior) · SSC Operations Coordinator · Customer Service Multilingüe (SSC) · IT Service Coordinator
 - **Entornos B2B:** SSC, banca, SaaS, consultoría, outsourcing de servicios
 - **Formato:** ejecución/coordinación dentro de un equipo establecido, con un Senior del que aprender la estrategia
-- **Situación:** en activo en INTELCIA / Banc Sabadell · Barcelona (presencial/híbrido) · horizonte de cambio 3-6 meses
+- **Situación:** disponible inmediatamente · Barcelona (presencial/híbrido)
 
 **Evito:** roles que exijan diseñar estrategia operativa como responsabilidad principal · soporte telefónico 100% · troubleshooting de red/VoIP como responsabilidad principal · roles B2C masivos
 
