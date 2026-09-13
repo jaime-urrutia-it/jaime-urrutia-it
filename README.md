@@ -74,6 +74,6 @@ Senior que diseña la estrategia; aporto rigor operativo y ejecución desde el d
 
  yurrutiavila@gmail.com · [LinkedIn](<https://www.linkedin.com/in/jaime-urrutia-multilingue/?locale=es-ES>) · 📍 Barcelona
 
-> "Mi valor no está solo en resolver una incidencia: está en asegurar que cada excepción
+> **"Mi valor no está solo en resolver una incidencia: está en asegurar que cada excepción
 > —técnica o de negocio— se gestione con trazabilidad, prioridad clara y aprendizaje
-> para evitar recurrencias."
+> para evitar recurrencias."**
