@@ -66,6 +66,10 @@ Senior que diseña la estrategia; aporto rigor operativo y ejecución desde el d
 
 **Evito:** roles que exijan diseñar estrategia operativa como responsabilidad principal · soporte telefónico 100% · troubleshooting de red/VoIP como responsabilidad principal · roles B2C masivos
 
+## 🎯 Mi objetivo actual:
+
+**Hoy busco incorporarme en Barcelona a roles de Exception Management, Back-Office o Coordinación Operativa en SSC. Mi valor no es diseñar la estrategia, sino ejecutarla con rigor: aplico la disciplina de la banca digital, el control estricto de SLAs y mi capacidad multilingüe para ser un puente operativo entre negocio y tecnología, aportando trazabilidad, compliance y resolución desde el día 1 dentro de un equipo establecido.**
+
 ## 📬 Contacto
 
  yurrutiavila@gmail.com · [LinkedIn](<https://www.linkedin.com/in/jaime-urrutia-multilingue/?locale=es-ES>) · 📍 Barcelona
