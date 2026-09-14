@@ -18,7 +18,7 @@ Este perfil documenta esa evolución en dos actos:
 
 No pretendo demostrar que soy desarrollador puro ni analista senior: demuestro que entiendo arquitecturas para coordinar con equipos técnicos, que aplico ITIL v4 y SLAs a flujos reales, y que sé usar los datos para controlar un proceso. **Aprendo rápido del Senior que diseña la estrategia; aporto rigor operativo y ejecución desde el día 1.**
 
-[Ver mi CV y perfil de LinkedIn](https://www.linkedin.com/in/jaime-yago-urrutia-multilingue/)
+[Ver mi perfil de LinkedIn](https://www.linkedin.com/in/jaime-yago-urrutia-multilingue/)
 
 ## 🚀 Evolución del Proyecto Clorian
 | Fase | Qué demuestra | Estado |
